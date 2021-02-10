@@ -1,30 +1,30 @@
 #fails repozitorijam
 print(5+6)
 #Tatjana Grencione
+print(5**4)
+#1)AuniÃ²Ã° RÃ»dolfs
 
-#1)Auniòğ Rûdolfs
-
-#2)Âdams Aleksis Henrijs
+#2)Ã‚dams Aleksis Henrijs
 
 #3)Dorbe Henrijs
 
-#4)Dunajevs Mârtiòğ
+#4)Dunajevs MÃ¢rtiÃ²Ã°
 
 #5)Gulbis Kristaps
 
-#6)Kalniòa Agnese
+#6)KalniÃ²a Agnese
 
 #7) Knope Elizabete
 
-#8) Laizâns Ralfs Adrians
+#8) LaizÃ¢ns Ralfs Adrians
 
-#9)Neija Niks Rûdolfs
+#9)Neija Niks RÃ»dolfs
 
 #10)Ratnieks Paulis
 
-#11)Rimkçvièa Alise
+#11)RimkÃ§viÃ¨a Alise
 
 #12)Samsonova Anna
 
-#13)Zîverte Mâra Anna
+#13)ZÃ®verte MÃ¢ra Anna
 
